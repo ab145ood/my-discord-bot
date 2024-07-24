@@ -1,0 +1,22 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot, for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ab145ood/my-discord-bot.git"
+  },
+  "author": "Ab145ood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ab145ood/my-discord-bot/issues"
+  },
+  "homepage": "https://github.com/ab145ood/my-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
